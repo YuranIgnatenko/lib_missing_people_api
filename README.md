@@ -19,6 +19,7 @@ pip install .
 ## Пример использования
 
 ```python
+from lib_missing_people_api.parser import *
 
 def test_sledkom():
 	parser = ParserSledcom()

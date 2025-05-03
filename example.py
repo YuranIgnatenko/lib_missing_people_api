@@ -1,4 +1,5 @@
-
+from lib_missing_people_api.parser import *
+ 
 def main() -> None:
 	def test_sledkom():
 		parser = ParserSledcom()
